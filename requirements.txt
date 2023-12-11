@@ -1,0 +1,8 @@
+pandas
+seaborn
+opencv-python
+scikit-learn
+torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
+tqdm
+albumentations==0.4.6
+#!pip install -U albumentations[imgaug]
